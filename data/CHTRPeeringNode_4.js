@@ -1,0 +1,14 @@
+var json_CHTRPeeringNode_4 = {
+"type": "FeatureCollection",
+"name": "CHTRPeeringNode_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Type": "Peering 20115", "Location": "Ashburn", "Address": "21721 Filigree Ct Ashburn VA 20147", "Legacy Company": "Charter", "Colocation Provider": "Equinix", "Provider Site ID(s)": "DC11", "Public IX": "Equinix IX\nLINX", "lat": 39.014317, "long": -77.45778 }, "geometry": { "type": "Point", "coordinates": [ -77.45778, 39.014317 ] } },
+{ "type": "Feature", "properties": { "Type": "Peering 20115", "Location": "Denver", "Address": "910 15th Street Denver CO 80202", "Legacy Company": "Charter", "Colocation Provider": "CoreSite", "Provider Site ID(s)": "DE1", "Public IX": "None", "lat": 39.745693, "long": -104.99531 }, "geometry": { "type": "Point", "coordinates": [ -104.99531, 39.745693 ] } },
+{ "type": "Feature", "properties": { "Type": "Peering 20115", "Location": "Minneapolis", "Address": "511 11th Ave S Minneapolis MN 55415", "Legacy Company": "Charter", "Colocation Provider": "Cologix", "Provider Site ID(s)": "MIN3", "Public IX": "None", "lat": 44.97242, "long": -93.25564 }, "geometry": { "type": "Point", "coordinates": [ -93.25564, 44.97242 ] } },
+{ "type": "Feature", "properties": { "Type": "Peering 20115", "Location": "Montgomery", "Address": "445 Dexter Ave Montgomery AL 36104", "Legacy Company": "Charter", "Colocation Provider": "RSA", "Provider Site ID(s)": "Dexter", "Public IX": "MGMix", "lat": 32.37762, "long": -86.303185 }, "geometry": { "type": "Point", "coordinates": [ -86.303185, 32.37762 ] } },
+{ "type": "Feature", "properties": { "Type": "Peering 20115", "Location": "San Jose", "Address": "9 Great Oaks Blvd San Jose CA 95119", "Legacy Company": "Charter", "Colocation Provider": "Equinix", "Provider Site ID(s)": "SV5", "Public IX": "Equinix IX", "lat": 37.239464, "long": -121.77646 }, "geometry": { "type": "Point", "coordinates": [ -121.77646, 37.239464 ] } },
+{ "type": "Feature", "properties": { "Type": "Peering 20115", "Location": "Seattle", "Address": "2001 Sixth Ave Seattle WA 98121", "Legacy Company": "Charter", "Colocation Provider": "Equinix", "Provider Site ID(s)": "SE2", "Public IX": "Equinix IX\nSeattleIX (SIX)", "lat": 47.61445, "long": -122.33841 }, "geometry": { "type": "Point", "coordinates": [ -122.33841, 47.61445 ] } },
+{ "type": "Feature", "properties": { "Type": "Peering 20115", "Location": "St. Louis", "Address": "210 N Tucker Blvd St. Louis MO 63101", "Legacy Company": "Charter", "Colocation Provider": "Netrality", "Provider Site ID(s)": "210 Tucker", "Public IX": "None", "lat": 38.626045, "long": -90.19867 }, "geometry": { "type": "Point", "coordinates": [ -90.19867, 38.626045 ] } }
+]
+}
